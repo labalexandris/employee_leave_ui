@@ -63,8 +63,6 @@
           </v-list-item-content>
         </v-card>
       </v-menu>
-
-
     </v-app-bar>
 
     <v-main>
